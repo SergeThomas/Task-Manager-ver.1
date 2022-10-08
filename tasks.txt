@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2024, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+tom, cook, cook for the family today and address everything, 06 Oct 2022, 12 Dec 2023, No
+admin, slp, go to sleep admin you need it, 06 Oct 2022, 12 Dec 2023, Yes
+serge, break, go break the wood outback for fire, 08 Oct 2022, 12 Dec 2022, Yes
+tom, cook, you will need to cook for the dogs every tuesday, 08 Oct 2022, 14 Jun 2033, No
+serge, tree, go cut the tree in the back, 08 Oct 2022, 12 Dec 2023, No
+tom, grab, go grab something i guess, 08 Oct 2022, 12 Oct 2022, No
